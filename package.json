@@ -1,0 +1,12 @@
+{
+  "name": "satpam-indosiar",
+  "version": "1.0.0",
+  "description": "Bot Satpam Indosiar - Anti Promosi & Spam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8"
+  }
+}
